@@ -1,0 +1,2 @@
+- Store SMTP password securely in an encrypted form.
+- Uninstaller should delete the key, don't leave that to the user.
